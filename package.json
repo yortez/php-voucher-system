@@ -1,0 +1,8 @@
+{
+  "name": "php-voucher-system-vercel",
+  "version": "1.0.0",
+  "description": "Raw PHP Voucher System deployed on Vercel",
+  "main": "api/index.php",
+  "scripts": {"start": "php -S 0.0.0.0:3000 -t api"},
+  "dependencies": {}
+}
